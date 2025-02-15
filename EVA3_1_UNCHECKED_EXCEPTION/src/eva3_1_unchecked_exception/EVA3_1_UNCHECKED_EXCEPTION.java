@@ -18,7 +18,7 @@ public class EVA3_1_UNCHECKED_EXCEPTION {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       /*  // TODO code application logic here
         //ARITMETIC EXCEPTION: DIVISION ENTRE 0
         System.out.println("INICIO DE PROGRAMA");
         System.out.println("DECLARACION DE VARIABLES");
@@ -50,7 +50,8 @@ public class EVA3_1_UNCHECKED_EXCEPTION {
         //NULLPOINTER EXCEPTION
      
         Prueba ObjPrueba = null; //el objeto no exste,  es nulo
-        System.out.println("Valor x = " + ObjPrueba.x);   
+        System.out.println("Valor x = " + ObjPrueba.x);*/
+        System.out.println("hola mundo");   
     }
 }
 
