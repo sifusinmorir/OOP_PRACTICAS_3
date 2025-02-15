@@ -38,7 +38,7 @@ public class EVA3_1_UNCHECKED_EXCEPTION {
         
         //ARRAYINDEXOUTOFBOUNDS EXCEPTION
         int[] arreglo = new int[5];//arreglo con 5 pociciones
-        arreglo[0] = 100;
+        arreglo[0] = 50;//no se 
         arreglo[2] = 200;
         arreglo[2] = 300;
         arreglo[3] = 400;
